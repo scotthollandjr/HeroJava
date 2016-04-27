@@ -1,12 +1,10 @@
-* Implement Superhero class
-
 * Implement Squad class
 
 --- Done with required project ---
 
-* Implement Character class from Superhero
+* Implement Character class from Hero
 
-* Implement Villain&Superhero subclasses
+* Implement Villain&Hero subclasses
 
 * Implement more stats/"classes -- e.g., healer, fighter, etc"
 
