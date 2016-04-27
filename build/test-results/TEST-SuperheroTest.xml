@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SuperheroTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-27T18:59:13" hostname="epicodus-58.local" time="0.001">
+<testsuite name="SuperheroTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-04-27T20:44:07" hostname="epicodus-58.local" time="0.001">
   <properties/>
   <testcase name="superheroAddsName_String" classname="SuperheroTest" time="0.001"/>
+  <testcase name="superheroAccessStats_Integer" classname="SuperheroTest" time="0.0"/>
   <testcase name="superHeroAddsAge_int" classname="SuperheroTest" time="0.0"/>
+  <testcase name="superheroAssignsRole_String" classname="SuperheroTest" time="0.0"/>
   <testcase name="SuperheroInstantiatesCorrectly_true" classname="SuperheroTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
