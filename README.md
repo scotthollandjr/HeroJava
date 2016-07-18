@@ -10,8 +10,6 @@ Hero project for Epicodus Java course.
 * Install gradle
 * enter "gradle run" in the repositories directory
 * in your browser go to "localhost:4567"
-* enter three sides into the fields, and click
-* enjoy results
 
 ## Link to repository
 
